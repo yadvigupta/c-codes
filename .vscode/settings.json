@@ -1,0 +1,7 @@
+{
+    "C_Cpp.errorSquiggles": "disabled",
+    "files.associations": {
+        "program39.C": "cpp",
+        "stdio.h": "c"
+    }
+}
